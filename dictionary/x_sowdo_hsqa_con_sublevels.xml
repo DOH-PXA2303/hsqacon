@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="SubLevels" max_length="40" name="x_sowdo_hsqa_con_sublevels" type="collection">
+        <element label="SubLevel" mandatory="true" max_length="50" name="sublevel" type="string" unique="true"/>
+        <index name="index">
+            <element name="sublevel"/>
+        </index>
+    </element>
+</database>

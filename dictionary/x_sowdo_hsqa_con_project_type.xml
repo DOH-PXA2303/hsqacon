@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Project Type" max_length="40" name="x_sowdo_hsqa_con_project_type" type="collection">
+        <element label="Project Type ID" mandatory="true" max_length="40" name="project_type_id" type="integer" unique="true"/>
+        <element label="Project Type" max_length="75" name="project_type_text" type="string"/>
+        <index name="index">
+            <element name="project_type_id"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="BasicInfo" max_length="40" name="x_sowdo_hsqa_con_ii_basicinfo" type="collection">
+        <element choice="1" label="1987 State Health Comments" max_length="50" name="u_1987statehealthcomments" type="string">
+            <choice/>
+        </element>
+        <element choice="1" label="1987 State Health Plan" max_length="40" name="u_1987statehealthplan" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="1st Year Anticipated Number of Patients Served" max_length="40" name="u_1st_yr_antic_patientsserved" type="integer"/>
+        <element label="2nd Screening Responses Due" max_length="40" name="u_2ndscreeningresponsesdue" type="glide_date"/>
+        <element label="2nd Screening Returned" max_length="40" name="u_2ndscreeningreturned" type="glide_date"/>
+        <element label="2nd Year Anticipated Number of Patients Served" max_length="40" name="u_2nd_yr_antic_patientsserved" type="integer"/>
+        <element label="3rd Year Anticipated Number of Patients Served" max_length="40" name="u_3rd_yr_antic_patientsserved" type="integer"/>
+        <element label="AmendmentDeterminationID" max_length="40" name="u_amendmentdeterminationid" type="string"/>
+        <element label="Ammended CON Date" max_length="40" name="u_ammendedcon_date" type="glide_date"/>
+        <element label="Ammendment Comments" max_length="255" name="u_ammendmentcomments" type="string"/>
+        <element label="Analysis Due" max_length="40" name="u_analysis_due" type="glide_date"/>
+        <element label="Analysis Out" max_length="40" name="u_analysis_out" type="glide_date"/>
+        <element label="Appeal Comments" max_length="255" name="u_appealcomments" type="string"/>
+        <element label="AppealDeterminationID" max_length="40" name="u_appealdeterminationid" type="string"/>
+        <element label="AppealTypeID" max_length="40" name="u_appealtypeid" type="string"/>
+        <element label="Applicant Request Begin Review" max_length="40" name="u_applicantreqest_beginreview" type="glide_date"/>
+        <element label="Applicant Response Letter" max_length="40" name="u_applicantresponse_letter" type="glide_date"/>
+        <element label="Applicant Type" max_length="50" name="u_applicanttype" type="string"/>
+        <element label="ApplicationForm_CategoryID" max_length="40" name="u_applicationform_categoryid" type="string"/>
+        <element label="Application Info ID" max_length="40" name="u_applicationinfoid" type="integer"/>
+        <element label="Application Submitted" max_length="40" name="u_applicationsub" type="glide_date"/>
+        <element label="ApplicationTYPE_ID" max_length="40" name="u_applicationtype_id" type="string"/>
+        <element label="BasicInfo ID" mandatory="true" max_length="40" name="u_basicinfoid" type="integer" unique="true"/>
+        <element label="Beds Requested from ID" max_length="40" name="u_bedsrequestedfromid" reference="x_sowdo_hsqa_con_beds_requested_from" type="reference"/>
+        <element label="Begin Review" max_length="40" name="u_begin_review" type="glide_date"/>
+        <element label="CategoryProjectTypeID" max_length="40" name="u_categoryprojecttypeid" type="string"/>
+        <element label="Complete 2nd Screen" max_length="40" name="u_complete2ndscreen" type="glide_date"/>
+        <element label="Complete 2nd Screen Due" max_length="40" name="u_complete2ndscreendue" type="glide_date"/>
+        <element label="Compliance History Comments" max_length="50" name="u_compliancehistorycomments" type="string"/>
+        <element choice="1" label="Compliance History Inquiry 2 Other States" max_length="40" name="u_compliancehi_y2otherstates" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="CON Amended" max_length="40" name="u_con_amended" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="CON Appealed" max_length="40" name="u_con_appealed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="CON Issued" max_length="40" name="u_con_issued" type="glide_date"/>
+        <element choice="1" label="CON Reconsidered" max_length="40" name="u_con_reconsidered" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Current Licenced Bed Capacity" max_length="40" name="u_currentlicencedbedcapacity" type="integer"/>
+        <element label="Current Number Beds Setup" max_length="40" name="u_currentnumberbedssetup" type="integer"/>
+        <element label="Decision Letter" max_length="40" name="u_decision_letter" type="glide_date"/>
+        <element label="DeterminationID" max_length="40" name="u_determinationid" type="string"/>
+        <element label="DOH Analyst" max_length="50" name="u_doh_analyst" type="string"/>
+        <element choice="1" label="DSHS/FSL 4 Compliance Data" max_length="40" name="u_dshs_fsl4compliancedata" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="DSHS/FSL Comments" max_length="50" name="u_dshs_fslcomments" type="string"/>
+        <element default="Date" label="End of Public Comment" max_length="40" name="u_endofpubliccomment" type="string"/>
+        <element label="End of Review" max_length="40" name="u_endofreview" type="glide_date"/>
+        <element label="Estimated Capital Expenditure" max_length="40" name="u_estimatedcapitalexpenditure" type="currency"/>
+        <element label="Fee Paid" max_length="40" name="u_feepaid" type="currency"/>
+        <element label="FileNum" max_length="50" name="u_filenum" type="string"/>
+        <element label="Final CON Number" max_length="50" name="u_final_con_number" type="string"/>
+        <element choice="1" label="Final CON Relenquished" max_length="40" name="u_final_con_relenquished" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Final Cost Containment" max_length="40" name="u_final_costcontainment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Final Date Progress Report Received" max_length="40" name="u_final_datepr_ssreportrecvd" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Final Decision Conditions" max_length="255" name="u_final_decisionconditions" type="string"/>
+        <element label="Final Expiration Date CON" max_length="40" name="u_final_expirationdate_con" type="glide_date"/>
+        <element choice="1" label="Final Financial Feasibility" max_length="40" name="u_final_financialfeasibility" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Final Need" max_length="40" name="u_final_need" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Final Number of Beds Approved" max_length="40" name="u_final_numberbedsapproved" type="integer"/>
+        <element choice="1" label="Final Quality" max_length="40" name="u_final_quality" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Financial Analysis Comments" max_length="50" name="u_financialanalysiscomments" type="string"/>
+        <element choice="1" label="Financial Analysis Hospital Info" max_length="40" name="u_financialana_hospitalinfo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Hospital Info Chars" max_length="40" name="u_hospitalinfochars" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Hospital Info Comments" max_length="50" name="u_hospitalinfocomments" type="string"/>
+        <element label="HPQAD4 Comments" max_length="50" name="u_hpqad4comments" type="string"/>
+        <element choice="1" label="HPQAD4 Disciplinary Actions" max_length="40" name="u_hpqad4disciplinaryactions" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Last Date Request Public Hearing" max_length="40" name="u_last_date_reqestpubhearing" type="glide_date"/>
+        <element label="Letter of Intent Submitted" max_length="40" name="u_letterofintentsub" type="glide_date"/>
+        <element choice="1" label="Literature Review" max_length="40" name="u_literaturereview" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Literature Review Comments" max_length="50" name="u_litreviewcomments" type="string"/>
+        <element label="Location" max_length="50" name="u_location" type="string"/>
+        <element label="Name" max_length="255" name="u_name" type="string"/>
+        <element label="Number Addl Beds Requested" max_length="40" name="u_numberaddlbedsrequested" type="integer"/>
+        <element label="NW Renal Comments" max_length="50" name="u_nwrenalcomments" type="string"/>
+        <element choice="1" label="NW Renal Network II" max_length="40" name="u_nwrenalnetworkii" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Original CON Issued" max_length="40" name="u_original_con_issued" type="glide_date"/>
+        <element label="Original CON Number" max_length="50" name="u_original_con_number" type="string"/>
+        <element choice="1" label="Original Cost Containment" max_length="40" name="u_original_costcontainment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Original Decision Conditions" max_length="255" name="u_original_decisionconditions" type="string"/>
+        <element label="Original Determination ID" max_length="40" name="u_original_determinationid" type="integer"/>
+        <element choice="1" label="Original Financial Feasibility" max_length="40" name="u_original_fin_alfeasibility" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element choice="1" label="Original Need" max_length="40" name="u_original_need" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Original Number of Beds Approved" max_length="40" name="u_original_numberbedsapproved" type="integer"/>
+        <element choice="1" label="Original Quality" max_length="40" name="u_original_quality" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Other" max_length="40" name="u_other" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Other Comment" max_length="255" name="u_othercomment" type="string"/>
+        <element label="Ownership Type ID" max_length="40" name="u_ownershiptypeid" type="integer"/>
+        <element label="Project Description" max_length="255" name="u_projectdescription" type="string"/>
+        <element label="Project Type Category" max_length="50" name="u_projecttypecategory" type="string"/>
+        <element label="ProjecttypeId" max_length="40" name="u_projecttypeid" type="string"/>
+        <element label="Public Hearing Date" max_length="40" name="u_publichearing_date" type="glide_date"/>
+        <element label="Rebuttals Due" max_length="40" name="u_rebuttals_due" type="glide_date"/>
+        <element label="Reconsideration Comments" max_length="255" name="u_reconsiderationcomments" type="string"/>
+        <element label="ReconsiderationDeterminationID" max_length="40" name="u_reconsiderat_eterminationid" type="string"/>
+        <element label="Responsible Employee" max_length="50" name="u_responsibleemployee" type="string"/>
+        <element label="Result of Reconsideration" max_length="255" name="u_resultofreconsideration" type="string"/>
+        <element label="Review Notice Out" max_length="40" name="u_reviewnotice_out" type="glide_date"/>
+        <element label="Review Notice Published" max_length="40" name="u_reviewnotice_published" type="glide_date"/>
+        <element label="Review Type" max_length="50" name="u_reviewtype" type="string"/>
+        <element label="Screening Out" max_length="40" name="u_screeningout" type="glide_date"/>
+        <element label="Screening Out Due" max_length="40" name="u_screeningoutdue" type="glide_date"/>
+        <element label="Screening Response Returned" max_length="40" name="u_screeningresponsereturned" type="glide_date"/>
+        <element label="Screening Responses Due" max_length="40" name="u_screeningresponsesdue" type="glide_date"/>
+        <element label="Survey Comments" max_length="50" name="u_surveycomments" type="string"/>
+        <element choice="3" default="No" label="Survey of Existing Providers" max_length="40" name="u_surveyofexistingproviders" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Timeline Comment Field" max_length="255" name="u_timeline_comment_field" type="string"/>
+        <element label="Type of Survey" max_length="50" name="u_type_of_survey" type="string"/>
+        <index name="index">
+            <element name="u_basicinfoid"/>
+        </index>
+    </element>
+</database>

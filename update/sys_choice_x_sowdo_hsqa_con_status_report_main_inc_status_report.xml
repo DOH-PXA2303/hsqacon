@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="inc_status_report" table="x_sowdo_hsqa_con_status_report_main" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inc_status_report</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>false</label>
+            <language>en</language>
+            <name>x_sowdo_hsqa_con_status_report_main</name>
+            <sequence>0</sequence>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-11 00:38:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ad940acdb63841055cb7e508c9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-11 00:38:14</sys_updated_on>
+            <value>false</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>inc_status_report</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>true</label>
+            <language>en</language>
+            <name>x_sowdo_hsqa_con_status_report_main</name>
+            <sequence>0</sequence>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-11 00:38:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a6d9cc6cdb63841055cb7e508c9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-11 00:38:13</sys_updated_on>
+            <value>true</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>inc_status_report</element>
+            <name>x_sowdo_hsqa_con_status_report_main</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-11 00:38:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>e6d9cc6cdb63841055cb7e508c9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>inc_status_report</sys_name>
+            <sys_package display_value="HSQA CON" source="x_sowdo_hsqa_con">adc670a6dbe2441055cb7e508c96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HSQA CON">adc670a6dbe2441055cb7e508c96195e</sys_scope>
+            <sys_update_name>sys_choice_x_sowdo_hsqa_con_status_report_main_inc_status_report</sys_update_name>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-11 00:38:13</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

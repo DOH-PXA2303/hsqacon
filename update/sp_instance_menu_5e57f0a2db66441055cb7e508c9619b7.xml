@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Header Menu Service Central">d187fb24dbfa1300d875fb0e0f961947</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>a_kin.santos</sys_created_by>
+        <sys_created_on>2020-01-27 16:02:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>5e57f0a2db66441055cb7e508c9619b7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SP Header Menu CON</sys_name>
+        <sys_package display_value="HSQA CON" source="x_sowdo_hsqa_con">adc670a6dbe2441055cb7e508c96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HSQA CON">adc670a6dbe2441055cb7e508c96195e</sys_scope>
+        <sys_update_name>sp_instance_menu_5e57f0a2db66441055cb7e508c9619b7</sys_update_name>
+        <sys_updated_by>a_kin.santos</sys_updated_by>
+        <sys_updated_on>2020-01-27 16:02:37</sys_updated_on>
+        <title>SP Header Menu CON</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"enable_cart": {
+		"displayValue": "false",
+		"value": false
+	}
+}]]></widget_parameters>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=5e57f0a2db66441055cb7e508c9619b7"/>
+</record_update>

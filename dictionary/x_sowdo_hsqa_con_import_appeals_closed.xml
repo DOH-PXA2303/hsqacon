@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Import Appeals Closed" max_length="40" name="x_sowdo_hsqa_con_import_appeals_closed" type="collection">
+        <element label="Action" max_length="255" name="action" type="string"/>
+        <element label="Actual Action Date" max_length="40" name="actual_action_date" type="glide_date"/>
+        <element label="Analyst" max_length="255" name="analyst" type="string"/>
+        <element label="Anticipated Decision" max_length="40" name="anticipated_decision" type="glide_date"/>
+        <element label="Appeal Type" max_length="255" name="appeal_type" type="string"/>
+        <element label="Appellant" max_length="255" name="appellant" type="string"/>
+        <element label="Comments" max_length="50" name="comments" type="string"/>
+        <element label="Date Appeal Filed" max_length="40" name="date_appeal_filed" type="glide_date"/>
+        <element label="Date of Hearing" max_length="40" name="date_of_hearing" type="glide_date"/>
+        <element label="Decision Being Appealed" max_length="255" name="decision_being_appealed" type="string"/>
+        <element label="Docket Number" max_length="255" name="docket_number" type="string"/>
+        <element label="ID" mandatory="true" max_length="40" name="id" type="integer" unique="true"/>
+        <element label="Initial Decision Date" max_length="40" name="initial_decision_date" type="glide_date"/>
+        <element label="Name of Applicant" max_length="255" name="name_of_applicant" type="string"/>
+        <element label="Project #" max_length="255" name="project" type="string"/>
+        <element label="Project Description/County" max_length="255" name="project_description_county" type="string"/>
+        <element label="Updated Anticipated Decision Date" max_length="40" name="updated_anticipated_decision_date" type="glide_date"/>
+        <index name="index">
+            <element name="id"/>
+        </index>
+    </element>
+</database>

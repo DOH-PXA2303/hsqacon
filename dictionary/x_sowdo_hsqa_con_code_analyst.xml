@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Code Analyst" max_length="40" name="x_sowdo_hsqa_con_code_analyst" type="collection">
+        <element label="Project Type" mandatory="true" max_length="255" name="project_type" type="string"/>
+    </element>
+</database>

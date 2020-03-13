@@ -1,0 +1,3064 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_sowdo_hsqa_con_ii_con_basic_info" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_121__</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1987statehealthcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1987statehealthplan_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1st_screeningout_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1st_screening_mailed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1st_screen_response_returned</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1st_screen_resp_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_1st_yr_antic_patientsserved</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_210_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_210_1_b</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_210_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_210_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_210_4_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_210_5_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_220_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_220_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_220_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_230_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_230_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_230_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_230_4_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_230_5_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_240_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_240_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_240_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_2nd_screening_mailed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_2nd_screenout_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_2nd_screen_response_returned</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_2nd_screen_resp_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_2nd_yr_antic_patientsserved</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_30</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_31_60</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_3rd_yr_antic_patientsserved</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_61_90</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_91_120</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adj</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adjuddeterminationid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adjudicative</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adj_action</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adj_docket__</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adj_end_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>40</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_adj_file_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>41</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ammendedcon_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>42</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ammendmentcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>43</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ammendproj_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>44</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_analysis_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>45</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_analysis_release_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>46</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_appealcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>47</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_appealdeterminationid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>48</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_appealtypeid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>49</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_appellant</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>50</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_applicant</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>51</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_applicantreqest_bor</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>52</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_applicantresponse_letter</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>53</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_applicanttype</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>54</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_applicationform_categoryid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>55</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_applicationinfoid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>56</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_basicinfoid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>57</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_bedsrequestedfromid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>58</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_bor</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>59</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_bor_out</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>60</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_bor_published</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>61</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961919</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_categoryprojecttypeid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>62</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_cn_extension_exp_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>63</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_compliancehistorycomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>64</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_compliancehi_y2otherstates_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>65</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_consultant</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>66</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_con_amended_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>67</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_con_appealed_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>68</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_con_reconsidered_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>69</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c96191a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_currentlicencedbedcapacity</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>70</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_currentnumberbedssetup</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>71</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_dateloireceived</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>72</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_appeal_filed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>73</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c96191b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_appl_received</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>74</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_materials_complete</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>75</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_decision_appealed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>76</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_decision_day_count</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>77</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_decision_letter</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>78</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_determinationid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>79</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_doh_analyst</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>80</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_doh_intent_notice</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>81</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_dshs_fsl4compliancedata_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>82</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961928</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_dshs_fslcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>83</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ece_appl</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>84</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ece_loi</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>85</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_endofpubliccomment</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>86</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_endofreview</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>87</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_feepaid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>88</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_action_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>89</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_capexpense</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>90</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_con_number</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>91</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_con_relenquished__</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>92</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_costcontainment_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>93</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_datepr_ssreportrecvd_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>94</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_decisionconditions</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>95</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_expirationdate_con</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>96</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_financialfeasibility_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>97</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_need_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>98</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_numberbedsapproved</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>99</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_final_quality_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>100</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_financialanalysiscomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>101</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_financialana__hospitalinfo_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>102</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_hospitalinfochars_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>103</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_hospitalinfocomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>104</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_hpqad4comments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>105</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_hpqad4disciplinaryactions_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>106</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c96192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_inc_status_report</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>107</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_issue_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>108</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_jud</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>109</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judappealant</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>110</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judappealant_end</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>111</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judappealant_filed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>112</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judicdeterminationid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>113</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judicial</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>114</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judsuperior</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>115</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judsuperior_end</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>116</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judsuperior_filed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>117</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judsupreme</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>118</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judsupreme_end</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>119</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_judsupreme_filed</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>120</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_jud_action</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>121</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_jud_docket__</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>122</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_jud_end_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>123</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_jud_file_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>124</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_last_date_reqestpubhearing</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>125</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_licensee</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>126</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_literaturereview_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>127</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_litreviewcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>128</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_loi_expiration_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>129</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_mastercase__adj</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>130</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na210_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>131</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na210_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>132</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na210_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>133</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na210_4_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>134</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na210_5_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>135</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na220_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>136</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na220_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>137</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na220_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>138</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na230_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>139</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na230_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>140</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na230_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>141</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na230_4_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>142</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na230_5_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>143</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na240_1_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>144</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na240_2_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>145</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na240_3_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>146</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961930</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_chars</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>147</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_compliance</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>148</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_dshs</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>149</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_hpqa</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>150</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_lit</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>151</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_renal</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>152</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_shp</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>153</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_na_survey</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>154</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961931</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_next_hearing_date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>155</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_numberaddlbedsrequested</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>156</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_nwrenalcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>157</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_nwrenalnetworkii_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>158</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_on_time</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>159</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_operator</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>160</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_origcostsigissue</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>161</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_origfinsigissue</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>162</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961932</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_originalcapcosts</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>163</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_con_issued</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>164</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_con_number</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>165</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>575ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_costcontainment_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>166</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d75ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_decisionconditions</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>167</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5b5ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_determinationid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>168</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>db5ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_fin_alfeasibility_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>169</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>5f5ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_need_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>170</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>df5ff28fdb9f0c5055cb7e508c961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_numberbedsapproved</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>171</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>535ff28fdb9f0c5055cb7e508c961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_original_quality_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>172</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>d35ff28fdb9f0c5055cb7e508c961934</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_origneedsigissue</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>173</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_origqualsigissue</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>174</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_othercomment</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>175</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_other_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>176</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_owner</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>177</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ownershiptypeid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>178</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_projecttypeid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>179</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_project_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>180</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_project_county</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>181</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_project_description_appl</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>182</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_project_description_loi</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>183</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_project_typ0</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>184</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_project_type</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>185</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_public_hearing__ph__date</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>186</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_ra__or_cn_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>187</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_rebuttals_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>188</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reconsideration</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>189</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reconsiderationcomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>190</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reconsiderat_eterminationid</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>191</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_responsibleemployee</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>192</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_resultofreconsideration</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>193</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_review_type</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>194</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>975ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_screening_notes</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>195</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1b5ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_sublevel</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>196</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9b5ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_surveycomments</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>197</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>1f5ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_surveyofexistingproviders_</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>198</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_timeline_comment_field</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>199</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>135ff28fdb9f0c5055cb7e508c961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_type_of_survey</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>200</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>935ff28fdb9f0c5055cb7e508c961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_updated_analysis_due</element>
+            <list_id display_value="x_sowdo_hsqa_con_ii_con_basic_info" element="NULL" name="x_sowdo_hsqa_con_ii_con_basic_info" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9f5ff28fdb9f0c5055cb7e508c961911</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>201</position>
+            <sum>false</sum>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_id>175ff28fdb9f0c5055cb7e508c961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_sowdo_hsqa_con_ii_con_basic_info</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 22:00:22</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f5ff28fdb9f0c5055cb7e508c961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_sowdo_hsqa_con_ii_con_basic_info</sys_name>
+            <sys_package display_value="HSQA CON" source="x_sowdo_hsqa_con">adc670a6dbe2441055cb7e508c96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HSQA CON">adc670a6dbe2441055cb7e508c96195e</sys_scope>
+            <sys_update_name>sys_ui_list_x_sowdo_hsqa_con_ii_con_basic_info_null</sys_update_name>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 22:00:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

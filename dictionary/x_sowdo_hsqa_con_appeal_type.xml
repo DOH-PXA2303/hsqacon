@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Appeal Type" max_length="40" name="x_sowdo_hsqa_con_appeal_type" type="collection">
+        <element label="Appeal Type ID" mandatory="true" max_length="40" name="appeal_type_id" type="integer" unique="true"/>
+        <element label="Appeal Type" max_length="50" name="appeal_type_text" type="string"/>
+        <index name="index">
+            <element name="appeal_type_id"/>
+        </index>
+    </element>
+</database>

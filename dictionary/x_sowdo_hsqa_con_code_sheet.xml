@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Code Sheet" max_length="40" name="x_sowdo_hsqa_con_code_sheet" type="collection">
+        <element label="Code" max_length="50" name="code" type="string"/>
+        <element label="Explanation" max_length="255" name="explanation" type="string"/>
+        <element label="ID" mandatory="true" max_length="40" name="id" type="integer" unique="true"/>
+        <element label="Project Type" max_length="255" name="project_type" type="string"/>
+        <index name="index">
+            <element name="id"/>
+        </index>
+    </element>
+</database>

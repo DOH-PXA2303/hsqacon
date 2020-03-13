@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Con Basic Info" max_length="40" name="x_sowdo_hsqa_con_ii_tmpl_con_basic_info" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=121 +" label="121 +" max_length="40" name="u_121__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1987StateHealthCOMMENTS" label="1987StateHealthCOMMENTS" max_length="40" name="u_1987statehealthcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1987StateHealthPlan?" label="1987StateHealthPlan?" max_length="40" name="u_1987statehealthplan_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1st ScreeningOut DUE" label="1st ScreeningOut DUE" max_length="40" name="u_1st_screeningout_due" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1st Screening Mailed" label="1st Screening Mailed" max_length="40" name="u_1st_screening_mailed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1st Screen Response RETURNED" label="1st Screen Response RETURNED" max_length="40" name="u_1st_screen_response_returned" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1st Screen Resp DUE" label="1st Screen Resp DUE" max_length="40" name="u_1st_screen_resp_due" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=1st_Yr_AnticipatedNumberPatientsServed" label="1st_Yr_AnticipatedNumberPatientsServed" max_length="40" name="u_1st_yr_antic_patientsserved" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=210(1)" label="210(1)" max_length="40" name="u_210_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=210(1)b" label="210(1)b" max_length="40" name="u_210_1_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=210(2)" label="210(2)" max_length="40" name="u_210_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=210(3)" label="210(3)" max_length="40" name="u_210_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=210(4)" label="210(4)" max_length="40" name="u_210_4_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=210(5)" label="210(5)" max_length="40" name="u_210_5_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=220(1)" label="220(1)" max_length="40" name="u_220_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=220(2)" label="220(2)" max_length="40" name="u_220_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=220(3)" label="220(3)" max_length="40" name="u_220_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=230(1)" label="230(1)" max_length="40" name="u_230_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=230(2)" label="230(2)" max_length="40" name="u_230_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=230(3)" label="230(3)" max_length="40" name="u_230_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=230(4)" label="230(4)" max_length="40" name="u_230_4_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=230(5)" label="230(5)" max_length="40" name="u_230_5_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=240(1)" label="240(1)" max_length="40" name="u_240_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=240(2)" label="240(2)" max_length="40" name="u_240_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=240(3)" label="240(3)" max_length="40" name="u_240_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=2nd Screening Mailed" label="2nd Screening Mailed" max_length="40" name="u_2nd_screening_mailed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=2nd ScreenOUT DUE" label="2nd ScreenOUT DUE" max_length="40" name="u_2nd_screenout_due" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=2nd Screen Response RETURNED" label="2nd Screen Response RETURNED" max_length="40" name="u_2nd_screen_response_returned" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=2nd Screen Resp DUE" label="2nd Screen Resp DUE" max_length="40" name="u_2nd_screen_resp_due" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=2nd_Yr_AnticipatedNumberPatientsServed" label="2nd_Yr_AnticipatedNumberPatientsServed" max_length="40" name="u_2nd_yr_antic_patientsserved" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=30" label="30" max_length="40" name="u_30" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=31-60" label="31-60" max_length="40" name="u_31_60" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=3rd_Yr_AnticipatedNumberPatientsServed" label="3rd_Yr_AnticipatedNumberPatientsServed" max_length="40" name="u_3rd_yr_antic_patientsserved" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=61-90" label="61-90" max_length="40" name="u_61_90" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=91-120" label="91-120" max_length="40" name="u_91_120" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adj" label="Adj" max_length="40" name="u_adj" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AdjudDeterminationID" label="AdjudDeterminationID" max_length="40" name="u_adjuddeterminationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adjudicative" label="Adjudicative" max_length="40" name="u_adjudicative" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adj Action" label="Adj Action" max_length="40" name="u_adj_action" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adj Docket #" label="Adj Docket #" max_length="40" name="u_adj_docket__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adj End Date" label="Adj End Date" max_length="40" name="u_adj_end_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adj File Date" label="Adj File Date" max_length="40" name="u_adj_file_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AmmendedCON_Date" label="AmmendedCON_Date" max_length="40" name="u_ammendedcon_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AmmendmentComments" label="AmmendmentComments" max_length="40" name="u_ammendmentcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AmmendProj#" label="AmmendProj#" max_length="40" name="u_ammendproj_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Analysis_DUE" label="Analysis_DUE" max_length="40" name="u_analysis_due" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Analysis Release Date" label="Analysis Release Date" max_length="40" name="u_analysis_release_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppealComments" label="AppealComments" max_length="40" name="u_appealcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppealDeterminationID" label="AppealDeterminationID" max_length="40" name="u_appealdeterminationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=AppealTypeID" label="AppealTypeID" max_length="40" name="u_appealtypeid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Appellant" label="Appellant" max_length="40" name="u_appellant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Applicant" label="Applicant" max_length="40" name="u_applicant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicantReqest_BOR" label="ApplicantReqest_BOR" max_length="40" name="u_applicantreqest_bor" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicantResponse_Letter" label="ApplicantResponse_Letter" max_length="40" name="u_applicantresponse_letter" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicantType" label="ApplicantType" max_length="40" name="u_applicanttype" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationForm_CategoryID" label="ApplicationForm_CategoryID" max_length="40" name="u_applicationform_categoryid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ApplicationInfoID" label="ApplicationInfoID" max_length="40" name="u_applicationinfoid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BasicInfoID" label="BasicInfoID" max_length="40" name="u_basicinfoid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BedsRequestedFromID" label="BedsRequestedFromID" max_length="40" name="u_bedsrequestedfromid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BOR" label="BOR" max_length="40" name="u_bor" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BOR_OUT" label="BOR_OUT" max_length="40" name="u_bor_out" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=BOR_PUBLISHED" label="BOR_PUBLISHED" max_length="40" name="u_bor_published" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CategoryProjectTypeID" label="CategoryProjectTypeID" max_length="40" name="u_categoryprojecttypeid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CN Extension Exp Date" label="CN Extension Exp Date" max_length="40" name="u_cn_extension_exp_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ComplianceHistoryCOMMENTS" label="ComplianceHistoryCOMMENTS" max_length="40" name="u_compliancehistorycomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ComplianceHistory_Inquiry2OtherStates?" label="ComplianceHistory_Inquiry2OtherStates?" max_length="40" name="u_compliancehi_y2otherstates_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Consultant" label="Consultant" max_length="40" name="u_consultant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CON_Amended?" label="CON_Amended?" max_length="40" name="u_con_amended_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CON_Appealed?" label="CON_Appealed?" max_length="40" name="u_con_appealed_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CON_Reconsidered?" label="CON_Reconsidered?" max_length="40" name="u_con_reconsidered_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CurrentLicencedBedCAPACITY" label="CurrentLicencedBedCAPACITY" max_length="40" name="u_currentlicencedbedcapacity" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CurrentNumberBedsSETUP" label="CurrentNumberBedsSETUP" max_length="40" name="u_currentnumberbedssetup" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DateLOIReceived" label="DateLOIReceived" max_length="40" name="u_dateloireceived" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date Appeal Filed" label="Date Appeal Filed" max_length="40" name="u_date_appeal_filed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date Appl Received" label="Date Appl Received" max_length="40" name="u_date_appl_received" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date Materials Complete" label="Date Materials Complete" max_length="40" name="u_date_materials_complete" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Decision Appealed" label="Decision Appealed" max_length="40" name="u_decision_appealed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Decision Day Count" label="Decision Day Count" max_length="40" name="u_decision_day_count" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Decision_Letter" label="Decision_Letter" max_length="40" name="u_decision_letter" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DeterminationID" label="DeterminationID" max_length="40" name="u_determinationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DOH Analyst" label="DOH Analyst" max_length="40" name="u_doh_analyst" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DOH Intent Notice" label="DOH Intent Notice" max_length="40" name="u_doh_intent_notice" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DSHS/FSL4ComplianceData?" label="DSHS/FSL4ComplianceData?" max_length="40" name="u_dshs_fsl4compliancedata_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DSHS/FSLCOMMENTS" label="DSHS/FSLCOMMENTS" max_length="40" name="u_dshs_fslcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ECE-Appl" label="ECE-Appl" max_length="40" name="u_ece_appl" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ECE-LOI" label="ECE-LOI" max_length="40" name="u_ece_loi" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EndofPublicComment" label="EndofPublicComment" max_length="40" name="u_endofpubliccomment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EndofReview" label="EndofReview" max_length="40" name="u_endofreview" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FeePaid" label="FeePaid" max_length="40" name="u_feepaid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final Action Date" label="Final Action Date" max_length="40" name="u_final_action_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_CapExpense" label="Final_CapExpense" max_length="40" name="u_final_capexpense" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_CON_Number" label="Final_CON_Number" max_length="40" name="u_final_con_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_CON_Relenquished??" label="Final_CON_Relenquished??" max_length="40" name="u_final_con_relenquished__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_CostContainment?" label="Final_CostContainment?" max_length="40" name="u_final_costcontainment_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_DateProgressReportRecvd?" label="Final_DateProgressReportRecvd?" max_length="40" name="u_final_datepr_ssreportrecvd_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_DecisionConditions" label="Final_DecisionConditions" max_length="40" name="u_final_decisionconditions" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_ExpirationDate_CON" label="Final_ExpirationDate_CON" max_length="40" name="u_final_expirationdate_con" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_FinancialFeasibility?" label="Final_FinancialFeasibility?" max_length="40" name="u_final_financialfeasibility_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_Need?" label="Final_Need?" max_length="40" name="u_final_need_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_NumberBedsApproved" label="Final_NumberBedsApproved" max_length="40" name="u_final_numberbedsapproved" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Final_Quality?" label="Final_Quality?" max_length="40" name="u_final_quality_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FinancialAnalysisCOMMEnTS" label="FinancialAnalysisCOMMEnTS" max_length="40" name="u_financialanalysiscomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=FinancialAnalysis_HospitalInfo?" label="FinancialAnalysis_HospitalInfo?" max_length="40" name="u_financialana__hospitalinfo_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HospitalInfoCHARS?" label="HospitalInfoCHARS?" max_length="40" name="u_hospitalinfochars_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HospitalInfoCOMMENTS" label="HospitalInfoCOMMENTS" max_length="40" name="u_hospitalinfocomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HPQAD4COMMENTS" label="HPQAD4COMMENTS" max_length="40" name="u_hpqad4comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=HPQAD4DisciplinaryActions?" label="HPQAD4DisciplinaryActions?" max_length="40" name="u_hpqad4disciplinaryactions_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=INC Status Report" label="INC Status Report" max_length="40" name="u_inc_status_report" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Issue Date" label="Issue Date" max_length="40" name="u_issue_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jud" label="Jud" max_length="40" name="u_jud" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudAppealant" label="JudAppealant" max_length="40" name="u_judappealant" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudAppealant End" label="JudAppealant End" max_length="40" name="u_judappealant_end" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudAppealant Filed" label="JudAppealant Filed" max_length="40" name="u_judappealant_filed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudicDeterminationID" label="JudicDeterminationID" max_length="40" name="u_judicdeterminationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Judicial" label="Judicial" max_length="40" name="u_judicial" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudSuperior" label="JudSuperior" max_length="40" name="u_judsuperior" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudSuperior End" label="JudSuperior End" max_length="40" name="u_judsuperior_end" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudSuperior Filed" label="JudSuperior Filed" max_length="40" name="u_judsuperior_filed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudSupreme" label="JudSupreme" max_length="40" name="u_judsupreme" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudSupreme End" label="JudSupreme End" max_length="40" name="u_judsupreme_end" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=JudSupreme Filed" label="JudSupreme Filed" max_length="40" name="u_judsupreme_filed" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jud Action" label="Jud Action" max_length="40" name="u_jud_action" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jud Docket #" label="Jud Docket #" max_length="40" name="u_jud_docket__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jud End Date" label="Jud End Date" max_length="40" name="u_jud_end_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Jud File Date" label="Jud File Date" max_length="40" name="u_jud_file_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LAST_DATE_ReqestPubHearing" label="LAST_DATE_ReqestPubHearing" max_length="40" name="u_last_date_reqestpubhearing" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Licensee" label="Licensee" max_length="40" name="u_licensee" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LiteratureReview?" label="LiteratureReview?" max_length="40" name="u_literaturereview_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LitReviewCOMMENTS" label="LitReviewCOMMENTS" max_length="40" name="u_litreviewcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=LOI Expiration Date" label="LOI Expiration Date" max_length="40" name="u_loi_expiration_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=MasterCase#-Adj" label="MasterCase#-Adj" max_length="40" name="u_mastercase__adj" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA210(1)" label="NA210(1)" max_length="40" name="u_na210_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA210(2)" label="NA210(2)" max_length="40" name="u_na210_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA210(3)" label="NA210(3)" max_length="40" name="u_na210_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA210(4)" label="NA210(4)" max_length="40" name="u_na210_4_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA210(5)" label="NA210(5)" max_length="40" name="u_na210_5_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA220(1)" label="NA220(1)" max_length="40" name="u_na220_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA220(2)" label="NA220(2)" max_length="40" name="u_na220_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA220(3)" label="NA220(3)" max_length="40" name="u_na220_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA230(1)" label="NA230(1)" max_length="40" name="u_na230_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA230(2)" label="NA230(2)" max_length="40" name="u_na230_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA230(3)" label="NA230(3)" max_length="40" name="u_na230_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA230(4)" label="NA230(4)" max_length="40" name="u_na230_4_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA230(5)" label="NA230(5)" max_length="40" name="u_na230_5_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA240(1)" label="NA240(1)" max_length="40" name="u_na240_1_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA240(2)" label="NA240(2)" max_length="40" name="u_na240_2_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA240(3)" label="NA240(3)" max_length="40" name="u_na240_3_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA CHARS" label="NA CHARS" max_length="40" name="u_na_chars" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA Compliance" label="NA Compliance" max_length="40" name="u_na_compliance" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA DSHS" label="NA DSHS" max_length="40" name="u_na_dshs" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA HPQA" label="NA HPQA" max_length="40" name="u_na_hpqa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA Lit" label="NA Lit" max_length="40" name="u_na_lit" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA Renal" label="NA Renal" max_length="40" name="u_na_renal" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA SHP" label="NA SHP" max_length="40" name="u_na_shp" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NA Survey" label="NA Survey" max_length="40" name="u_na_survey" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Next Hearing Date" label="Next Hearing Date" max_length="40" name="u_next_hearing_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NumberADDLbedsRequested" label="NumberADDLbedsRequested" max_length="40" name="u_numberaddlbedsrequested" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NWRenalCOMMENTS" label="NWRenalCOMMENTS" max_length="40" name="u_nwrenalcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=NWRenalNetworkII?" label="NWRenalNetworkII?" max_length="40" name="u_nwrenalnetworkii_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=On Time" label="On Time" max_length="40" name="u_on_time" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Operator" label="Operator" max_length="40" name="u_operator" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OrigCostSigIssue" label="OrigCostSigIssue" max_length="40" name="u_origcostsigissue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OrigFinSigIssue" label="OrigFinSigIssue" max_length="40" name="u_origfinsigissue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OriginalCapCosts" label="OriginalCapCosts" max_length="40" name="u_originalcapcosts" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_CON_Issued" label="Original_CON_Issued" max_length="40" name="u_original_con_issued" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_CON_Number" label="Original_CON_Number" max_length="40" name="u_original_con_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_CostContainment?" label="Original_CostContainment?" max_length="40" name="u_original_costcontainment_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_DecisionConditions" label="Original_DecisionConditions" max_length="40" name="u_original_decisionconditions" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_DeterminationID" label="Original_DeterminationID" max_length="40" name="u_original_determinationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_FinancialFeasibility?" label="Original_FinancialFeasibility?" max_length="40" name="u_original_fin_alfeasibility_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_Need?" label="Original_Need?" max_length="40" name="u_original_need_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_NumberBedsApproved" label="Original_NumberBedsApproved" max_length="40" name="u_original_numberbedsapproved" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Original_Quality?" label="Original_Quality?" max_length="40" name="u_original_quality_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OrigNeedSigIssue" label="OrigNeedSigIssue" max_length="40" name="u_origneedsigissue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OrigQualSigIssue" label="OrigQualSigIssue" max_length="40" name="u_origqualsigissue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OtherComment" label="OtherComment" max_length="40" name="u_othercomment" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Other?" label="Other?" max_length="40" name="u_other_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner" label="Owner" max_length="40" name="u_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OwnershipTypeId" label="OwnershipTypeId" max_length="40" name="u_ownershiptypeid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ProjecttypeId" label="ProjecttypeId" max_length="40" name="u_projecttypeid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project#" label="Project#" max_length="40" name="u_project_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project County" label="Project County" max_length="40" name="u_project_county" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Description-Appl" label="Project Description-Appl" max_length="40" name="u_project_description_appl" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Description-LOI" label="Project Description-LOI" max_length="40" name="u_project_description_loi" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project_TYPE" label="Project_TYPE" max_length="40" name="u_project_typ0" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project Type" label="Project Type" max_length="40" name="u_project_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Public Hearing (PH) Date" label="Public Hearing (PH) Date" max_length="40" name="u_public_hearing__ph__date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RA# or CN#" label="RA# or CN#" max_length="40" name="u_ra__or_cn_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Rebuttals_DUE" label="Rebuttals_DUE" max_length="40" name="u_rebuttals_due" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reconsideration" label="Reconsideration" max_length="40" name="u_reconsideration" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ReconsiderationComments" label="ReconsiderationComments" max_length="40" name="u_reconsiderationcomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ReconsiderationDeterminationID" label="ReconsiderationDeterminationID" max_length="40" name="u_reconsiderat_eterminationid" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ResponsibleEmployee" label="ResponsibleEmployee" max_length="40" name="u_responsibleemployee" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ResultofReconsideration" label="ResultofReconsideration" max_length="40" name="u_resultofreconsideration" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Review Type" label="Review Type" max_length="40" name="u_review_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Screening Notes" label="Screening Notes" max_length="40" name="u_screening_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SubLevel" label="SubLevel" max_length="40" name="u_sublevel" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SurveyCOMMENTS" label="SurveyCOMMENTS" max_length="40" name="u_surveycomments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SurveyofExistingProviders?" label="SurveyofExistingProviders?" max_length="40" name="u_surveyofexistingproviders_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Timeline Comment Field" label="Timeline Comment Field" max_length="40" name="u_timeline_comment_field" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type of Survey" label="Type of Survey" max_length="40" name="u_type_of_survey" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Updated Analysis_DUE" label="Updated Analysis_DUE" max_length="40" name="u_updated_analysis_due" type="string"/>
+    </element>
+</database>

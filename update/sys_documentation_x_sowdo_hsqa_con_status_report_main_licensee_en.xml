@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="licensee" label="Licensee" language="en" table="x_sowdo_hsqa_con_status_report_main">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>licensee</element>
+            <help/>
+            <hint/>
+            <label>Licensee</label>
+            <language>en</language>
+            <name>x_sowdo_hsqa_con_status_report_main</name>
+            <plural>Licensees</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-03-06 18:35:23</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>dc701a8fdbd70c5055cb7e508c9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Licensee</sys_name>
+            <sys_package display_value="HSQA CON" source="x_sowdo_hsqa_con">adc670a6dbe2441055cb7e508c96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HSQA CON">adc670a6dbe2441055cb7e508c96195e</sys_scope>
+            <sys_update_name>sys_documentation_x_sowdo_hsqa_con_status_report_main_licensee_en</sys_update_name>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-03-06 18:35:23</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

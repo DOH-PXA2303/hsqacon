@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Switchboard Items" max_length="40" name="x_sowdo_hsqa_con_switchboard_items" type="collection">
+        <element label="Argument" max_length="50" name="argument" type="string"/>
+        <element label="Command" max_length="40" name="command" type="integer"/>
+        <element label="Item Number" max_length="40" name="item_number" type="integer"/>
+        <element label="Item Text" max_length="50" name="item_text" type="string"/>
+        <element label="Switchboard ID" max_length="40" name="switchboard_id" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Application Type" language="en" table="x_sowdo_hsqa_con_application_type">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Application Type</label>
+            <language>en</language>
+            <name>x_sowdo_hsqa_con_application_type</name>
+            <plural>Application Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>PXA2303</sys_created_by>
+            <sys_created_on>2020-02-21 18:35:13</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>a92a866adb0f041055cb7e508c96191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Application Type</sys_name>
+            <sys_package display_value="HSQA CON" source="x_sowdo_hsqa_con">adc670a6dbe2441055cb7e508c96195e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="HSQA CON">adc670a6dbe2441055cb7e508c96195e</sys_scope>
+            <sys_update_name>sys_documentation_x_sowdo_hsqa_con_application_type__en</sys_update_name>
+            <sys_updated_by>PXA2303</sys_updated_by>
+            <sys_updated_on>2020-02-21 18:35:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

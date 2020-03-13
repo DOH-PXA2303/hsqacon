@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Beds Requested From</name>
+        <order>100</order>
+        <roles>x_sowdo_hsqa_con.beds_requested_from_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>PXA2303</sys_created_by>
+        <sys_created_on>2020-02-25 01:25:12</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2cc44bebdb03481055cb7e508c9619a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Beds Requested From</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="HSQA CON" source="x_sowdo_hsqa_con">adc670a6dbe2441055cb7e508c96195e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="HSQA CON">adc670a6dbe2441055cb7e508c96195e</sys_scope>
+        <sys_update_name>sys_app_application_2cc44bebdb03481055cb7e508c9619a0</sys_update_name>
+        <sys_updated_by>PXA2303</sys_updated_by>
+        <sys_updated_on>2020-02-25 01:25:12</sys_updated_on>
+        <title>Beds Requested From</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

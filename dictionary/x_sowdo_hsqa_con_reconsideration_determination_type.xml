@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Reconsideration Determination Type" max_length="40" name="x_sowdo_hsqa_con_reconsideration_determination_type" type="collection">
+        <element label="Reconsideration Determination" max_length="50" name="reconsideration_determination" type="string"/>
+        <element label="Reconsideration Determination Type ID" mandatory="true" max_length="40" name="reconsideration_determination_type_id" type="integer" unique="true"/>
+    </element>
+</database>

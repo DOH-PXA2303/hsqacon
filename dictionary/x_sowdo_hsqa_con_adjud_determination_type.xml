@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Adjud Determination Type" max_length="40" name="x_sowdo_hsqa_con_adjud_determination_type" type="collection">
+        <element label="Adjud Determination" max_length="50" name="adjud_determination" type="string"/>
+        <element label="Adjud Determination Type ID" mandatory="true" max_length="40" name="adjud_determination_type_id" type="integer" unique="true"/>
+        <index name="index">
+            <element name="adjud_determination_type_id"/>
+        </index>
+    </element>
+</database>

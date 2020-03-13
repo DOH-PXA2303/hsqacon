@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Status Report Main" max_length="40" name="x_sowdo_hsqa_con_status_report_main" type="collection">
+        <element label="Adjudicative" max_length="50" name="adjudicative" type="string"/>
+        <element label="Analysis Release Date" max_length="40" name="analysis_release_date" type="glide_date"/>
+        <element label="Analyst" max_length="50" name="analyst" type="string"/>
+        <element label="Anticipated Decision/Analysis Release Date" max_length="40" name="anticipated_decision_analysis_release_date" type="glide_date"/>
+        <element label="Appellant" max_length="50" name="appellant" type="string"/>
+        <element label="Begin Review Date" max_length="50" name="begin_review_date" type="string"/>
+        <element label="Comments" max_length="255" name="comments" type="string"/>
+        <element label="Date Appeal Filed" max_length="50" name="date_appeal_filed" type="string"/>
+        <element label="Date Materials Complete" max_length="50" name="date_materials_complete" type="string"/>
+        <element label="Date Received" max_length="40" name="date_received" type="glide_date"/>
+        <element label="Decision Appealed" max_length="50" name="decision_appealed" type="string"/>
+        <element label="Decision Day Count" max_length="50" name="decision_day_count" type="string"/>
+        <element label="Docket #" max_length="50" name="docket" type="string"/>
+        <element label="DOH Intent Notice" max_length="50" name="doh_intent_notice" type="string"/>
+        <element label="ECE" max_length="20" name="ece" type="currency"/>
+        <element label="End Public Comment Date" max_length="255" name="end_public_comment_date" type="string"/>
+        <element label="Final Action Date" max_length="40" name="final_action_date" type="glide_date"/>
+        <element label="Hearing Date" max_length="50" name="hearing_date" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer" unique="true"/>
+        <element choice="1" label="INC Status Report" max_length="40" name="inc_status_report" type="choice">
+            <choice>
+                <element inactive_on_update="false" sequence="0"/>
+                <element inactive_on_update="false" label="true" sequence="0" value="true"/>
+            </choice>
+        </element>
+        <element label="Issue Date" max_length="50" name="issue_date" type="string"/>
+        <element label="Judicial" max_length="50" name="judicial" type="string"/>
+        <element label="Licensee" max_length="50" name="licensee" type="string"/>
+        <element label="LOI Expiration Date" max_length="40" name="loi_expiration_date" type="glide_date"/>
+        <element label="Name of Facility" max_length="50" name="name_of_facility" type="string"/>
+        <element label="On Time" max_length="50" name="on_time" type="string"/>
+        <element label="Project#" max_length="255" name="project" type="string"/>
+        <element label="Project County" max_length="50" name="project_county" type="string"/>
+        <element label="Project Description" max_length="50" name="project_description" type="string"/>
+        <element label="Project Type" max_length="50" name="project_type" type="string"/>
+        <element label="Public Hearing (PH) Date" max_length="255" name="public_hearing_ph_date" type="string"/>
+        <element label="RA# or CN#" max_length="50" name="ra_or_cn" type="string"/>
+        <element label="Reconsideration" max_length="50" name="reconsideration" type="string"/>
+        <element label="Screening Notes" max_length="50" name="screening_notes" type="string"/>
+        <element label="Sublevel" max_length="50" name="sublevel" type="string"/>
+        <element label="Updated Decision/Analysis Release Date" max_length="40" name="updated_decision_analysis_release_date" type="glide_date"/>
+        <element label="121 +" max_length="50" name="u_121" type="string"/>
+        <element label="1st Screening Due" max_length="40" name="u_1st_screening_due" type="glide_date"/>
+        <element label="2nd Screening Due" max_length="40" name="u_2nd_screening_due" type="glide_date"/>
+        <element label="30" max_length="50" name="u_30" type="string"/>
+        <element label="31-60" max_length="50" name="u_31_60" type="string"/>
+        <element label="61-90" max_length="50" name="u_61_90" type="string"/>
+        <element label="91-120" max_length="50" name="u_91_120" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Ownership Type" max_length="40" name="x_sowdo_hsqa_con_ownership_type" type="collection">
+        <element label="Ownership Type ID" mandatory="true" max_length="40" name="ownership_type_id" type="integer" unique="true"/>
+        <element label="Ownership Type" max_length="50" name="ownership_type_text" type="string"/>
+        <index name="index">
+            <element name="ownership_type_id"/>
+        </index>
+    </element>
+</database>

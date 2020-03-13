@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Category Type" max_length="40" name="x_sowdo_hsqa_con_ii_category_type" type="collection">
+        <element label="Application Form Category ID" mandatory="true" max_length="40" name="u_applicationform_categoryid" type="integer" unique="true"/>
+        <element label="Category Type" max_length="50" name="u_categorytype" type="string"/>
+        <index name="index">
+            <element name="u_applicationform_categoryid"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Consultant Listing" max_length="40" name="x_sowdo_hsqa_con_consultant_listing" type="collection">
+        <element label="Consultant" mandatory="true" max_length="50" name="consultant" type="string"/>
+    </element>
+</database>

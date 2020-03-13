@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Beds Requested From" max_length="40" name="x_sowdo_hsqa_con_beds_requested_from" type="collection">
+        <element label="Beds Requested from ID" mandatory="true" max_length="40" name="beds_requested_from_id" type="integer" unique="true"/>
+        <element label="Beds Requested From" max_length="50" name="beds_requested_from_text" type="string"/>
+        <index name="index">
+            <element name="beds_requested_from_id"/>
+        </index>
+    </element>
+</database>

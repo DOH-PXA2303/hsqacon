@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Con Basic Info" max_length="40" name="x_sowdo_hsqa_con_ii_con_basic_info" type="collection">
+        <element label="121 +" max_length="50" name="u_121" type="string"/>
+        <element label="1987 State Health Comments" max_length="50" name="u_1987statehealthcomments" type="string"/>
+        <element choice="1" label="1987 State Health Plan" max_length="40" name="u_1987statehealthplan" type="choice">
+            <choice/>
+        </element>
+        <element label="1st Screening Out Due" max_length="40" name="u_1st_screeningout_due" type="glide_date"/>
+        <element label="1st Screening Mailed" max_length="40" name="u_1st_screening_mailed" type="glide_date"/>
+        <element label="1st Screen Response Returned" max_length="40" name="u_1st_screen_response_returned" type="glide_date"/>
+        <element label="1st Screen Response Due" max_length="40" name="u_1st_screen_resp_due" type="glide_date"/>
+        <element label="1st Year Anticipated Number of Patients Served" max_length="40" name="u_1st_yr_antic_patientsserved" type="integer"/>
+        <element choice="1" label="210(1)" max_length="40" name="u_210_1" type="choice">
+            <choice/>
+        </element>
+        <element label="210(1)b" max_length="50" name="u_210_1_b" type="string"/>
+        <element choice="1" label="210(2)" max_length="40" name="u_210_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="210(3)" max_length="40" name="u_210_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="210(4)" max_length="40" name="u_210_4" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="210(5)" max_length="40" name="u_210_5" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="220(1)" max_length="40" name="u_220_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="220(2)" max_length="40" name="u_220_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="220(3)" max_length="40" name="u_220_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="230(1)" max_length="40" name="u_230_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="230(2)" max_length="40" name="u_230_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="230(3)" max_length="40" name="u_230_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="230(4)" max_length="40" name="u_230_4" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="230(5)" max_length="40" name="u_230_5" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="240(1)" max_length="40" name="u_240_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="240(2)" max_length="40" name="u_240_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="240(3)" max_length="40" name="u_240_3" type="choice">
+            <choice/>
+        </element>
+        <element label="2nd Screening Mailed" max_length="40" name="u_2nd_screening_mailed" type="glide_date"/>
+        <element label="2nd Screen Out Due" max_length="40" name="u_2nd_screenout_due" type="glide_date"/>
+        <element label="2nd Screen Response Returned" max_length="40" name="u_2nd_screen_response_returned" type="glide_date"/>
+        <element label="2nd Screen Response Due" max_length="40" name="u_2nd_screen_resp_due" type="glide_date"/>
+        <element label="2nd Year Anticipated Number of Patients Served" max_length="40" name="u_2nd_yr_antic_patientsserved" type="integer"/>
+        <element label="30" max_length="50" name="u_30" type="string"/>
+        <element label="31-60" max_length="50" name="u_31_60" type="string"/>
+        <element label="3rd Year Anticipated Number of Patients Served" max_length="40" name="u_3rd_yr_antic_patientsserved" type="integer"/>
+        <element label="61-90" max_length="50" name="u_61_90" type="string"/>
+        <element label="91-120" max_length="50" name="u_91_120" type="string"/>
+        <element choice="1" label="Adj" max_length="50" name="u_adj" type="choice">
+            <choice/>
+        </element>
+        <element label="Adjud Determination ID" max_length="40" name="u_adjuddeterminationid" type="integer"/>
+        <element label="Adjudicative" max_length="50" name="u_adjudicative" type="string"/>
+        <element label="Adj Action" max_length="40" name="u_adj_action" type="integer"/>
+        <element label="Adj Docket #" max_length="50" name="u_adj_docket" type="string"/>
+        <element label="Adj End Date" max_length="40" name="u_adj_end_date" type="glide_date"/>
+        <element label="Adj File Date" max_length="40" name="u_adj_file_date" type="glide_date"/>
+        <element label="Ammended CON Date" max_length="40" name="u_ammendedcon_date" type="glide_date"/>
+        <element label="Ammendment Comments" max_length="255" name="u_ammendmentcomments" type="string"/>
+        <element label="Ammend Project#" max_length="50" name="u_ammendproj" type="string"/>
+        <element label="Analysis Due" max_length="40" name="u_analysis_due" type="glide_date"/>
+        <element label="Analysis Release Date" max_length="40" name="u_analysis_release_date" type="glide_date"/>
+        <element label="Appeal Comments" max_length="255" name="u_appealcomments" type="string"/>
+        <element label="Appeal Determination ID" max_length="40" name="u_appealdeterminationid" type="integer"/>
+        <element label="Appeal Type ID" max_length="40" name="u_appealtypeid" type="integer"/>
+        <element label="Appellant" max_length="50" name="u_appellant" type="string"/>
+        <element label="Applicant" max_length="50" name="u_applicant" type="string"/>
+        <element label="Applicant Request BOR" max_length="40" name="u_applicantreqest_bor" type="glide_date"/>
+        <element label="Applicant Response Letter" max_length="40" name="u_applicantresponse_letter" type="glide_date"/>
+        <element label="Applicant Type" max_length="50" name="u_applicanttype" type="string"/>
+        <element label="Application Form Category ID" max_length="40" name="u_applicationform_categoryid" type="integer"/>
+        <element label="Application Info ID" max_length="40" name="u_applicationinfoid" type="integer"/>
+        <element label="BasicInfo ID" max_length="40" name="u_basicinfoid" type="integer" unique="true"/>
+        <element label="Beds Requested From ID" max_length="40" name="u_bedsrequestedfromid" type="integer"/>
+        <element label="BOR" max_length="40" name="u_bor" type="glide_date"/>
+        <element label="BOR OUT" max_length="40" name="u_bor_out" type="glide_date"/>
+        <element label="BOR PUBLISHED" max_length="40" name="u_bor_published" type="glide_date"/>
+        <element label="Category Project Type ID" max_length="40" name="u_categoryprojecttypeid" type="integer"/>
+        <element label="CN Extension Exp Date" max_length="40" name="u_cn_extension_exp_date" type="glide_date"/>
+        <element label="Compliance History Comments" max_length="50" name="u_compliancehistorycomments" type="string"/>
+        <element choice="1" label="Compliance History Inquiry to Other States" max_length="40" name="u_compliancehi_y2otherstates" type="choice">
+            <choice/>
+        </element>
+        <element label="Consultant" max_length="50" name="u_consultant" type="string"/>
+        <element choice="1" label="CON Amended" max_length="40" name="u_con_amended" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="CON Appealed" max_length="40" name="u_con_appealed" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="CON Reconsidered" max_length="40" name="u_con_reconsidered" type="choice">
+            <choice/>
+        </element>
+        <element label="Current Licenced Bed Capacity" max_length="40" name="u_currentlicencedbedcapacity" type="integer"/>
+        <element label="Current Number Beds Setup" max_length="40" name="u_currentnumberbedssetup" type="integer"/>
+        <element label="Date LOI Received" max_length="40" name="u_dateloireceived" type="glide_date"/>
+        <element label="Date Appeal Filed" max_length="40" name="u_date_appeal_filed" type="glide_date"/>
+        <element label="Date Appl Received" max_length="40" name="u_date_appl_received" type="glide_date"/>
+        <element label="Date Materials Complete" max_length="40" name="u_date_materials_complete" type="glide_date"/>
+        <element label="Decision Appealed" max_length="50" name="u_decision_appealed" type="string"/>
+        <element label="Decision Day Count" max_length="50" name="u_decision_day_count" type="string"/>
+        <element label="Decision Letter" max_length="50" name="u_decision_letter" type="glide_date"/>
+        <element label="Determination ID" max_length="40" name="u_determinationid" type="integer"/>
+        <element label="DOH Analyst" max_length="50" name="u_doh_analyst" type="string"/>
+        <element label="DOH Intent Notice" max_length="40" name="u_doh_intent_notice" type="glide_date"/>
+        <element choice="1" label="DSHS/FSL4 Compliance Data" max_length="40" name="u_dshs_fsl4compliancedata" type="choice">
+            <choice/>
+        </element>
+        <element label="DSHS/FSL Comments" max_length="50" name="u_dshs_fslcomments" type="string"/>
+        <element label="ECE-Appl" max_length="40" name="u_ece_appl" type="currency"/>
+        <element label="ECE-LOI" max_length="40" name="u_ece_loi" type="currency"/>
+        <element label="End of Public Comment" max_length="40" name="u_endofpubliccomment" type="glide_date"/>
+        <element label="End of Review" max_length="40" name="u_endofreview" type="glide_date"/>
+        <element label="Fee Paid" max_length="40" name="u_feepaid" type="currency"/>
+        <element label="Final Action Date" max_length="40" name="u_final_action_date" type="glide_date"/>
+        <element label="Final Cap Expense" max_length="40" name="u_final_capexpense" type="currency"/>
+        <element label="Final CON Number" max_length="50" name="u_final_con_number" type="string"/>
+        <element choice="1" label="Final CON Relenquished" max_length="40" name="u_final_con_relenquished" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Final Cost Containment" max_length="40" name="u_final_costcontainment" type="choice">
+            <choice/>
+        </element>
+        <element label="Final Date Progress Report Received" max_length="40" name="u_final_datepr_ssreportrecvd" type="glide_date"/>
+        <element label="Final Decision Conditions" max_length="255" name="u_final_decisionconditions" type="string"/>
+        <element label="Final Expiration Date CON" max_length="40" name="u_final_expirationdate_con" type="glide_date"/>
+        <element choice="1" label="Final Financial Feasibility" max_length="40" name="u_final_financialfeasibility" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Final Need" max_length="40" name="u_final_need" type="choice">
+            <choice/>
+        </element>
+        <element label="Final Number of Beds Approved" max_length="40" name="u_final_numberbedsapproved" type="integer"/>
+        <element choice="1" label="Final Quality" max_length="40" name="u_final_quality" type="choice">
+            <choice/>
+        </element>
+        <element label="Financial Analysis Comments" max_length="50" name="u_financialanalysiscomments" type="string"/>
+        <element choice="1" label="Financial Analysis Hospital Info" max_length="40" name="u_financialana_hospitalinfo" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Hospital Info Chars" max_length="40" name="u_hospitalinfochars" type="choice">
+            <choice/>
+        </element>
+        <element label="Hospital Info Comments" max_length="50" name="u_hospitalinfocomments" type="string"/>
+        <element label="HPQAD4 Comments" max_length="50" name="u_hpqad4comments" type="string"/>
+        <element choice="1" label="HPQAD4 Disciplinary Actions" max_length="40" name="u_hpqad4disciplinaryactions" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="INC Status Report" max_length="40" name="u_inc_status_report" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" value="No"/>
+                <element inactive_on_update="false" label="Yes" value="Yes"/>
+            </choice>
+        </element>
+        <element label="Issue Date" max_length="40" name="u_issue_date" type="glide_date"/>
+        <element choice="1" label="Jud" max_length="50" name="u_jud" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Jud Appealant" max_length="40" name="u_judappealant" type="choice">
+            <choice/>
+        </element>
+        <element label="Jud Appealant End" max_length="40" name="u_judappealant_end" type="glide_date"/>
+        <element label="Jud Appealant Filed" max_length="40" name="u_judappealant_filed" type="glide_date"/>
+        <element label="Judicial Determination ID" max_length="50" name="u_judicdeterminationid" type="string"/>
+        <element label="Judicial" max_length="40" name="u_judicial" type="string"/>
+        <element choice="1" label="Jud Superior" max_length="40" name="u_judsuperior" type="choice">
+            <choice/>
+        </element>
+        <element label="Jud Superior End" max_length="40" name="u_judsuperior_end" type="glide_date"/>
+        <element label="Jud Superior Filed" max_length="40" name="u_judsuperior_filed" type="glide_date"/>
+        <element choice="1" label="Jud Supreme" max_length="40" name="u_judsupreme" type="choice">
+            <choice/>
+        </element>
+        <element label="Jud Supreme End" max_length="40" name="u_judsupreme_end" type="glide_date"/>
+        <element label="Jud Supreme Filed" max_length="40" name="u_judsupreme_filed" type="glide_date"/>
+        <element label="Jud Action" max_length="40" name="u_jud_action" type="integer"/>
+        <element label="Jud Docket #" max_length="50" name="u_jud_docket" type="string"/>
+        <element label="Jud End Date" max_length="40" name="u_jud_end_date" type="glide_date"/>
+        <element label="Jud File Date" max_length="40" name="u_jud_file_date" type="glide_date"/>
+        <element label="Last Date Request Public Hearing" max_length="40" name="u_last_date_reqestpubhearing" type="glide_date"/>
+        <element label="Licensee" max_length="50" name="u_licensee" type="string"/>
+        <element choice="1" label="Literature Review" max_length="40" name="u_literaturereview" type="choice">
+            <choice/>
+        </element>
+        <element label="Literature Review Comments" max_length="50" name="u_litreviewcomments" type="string"/>
+        <element label="LOI Expiration Date" max_length="40" name="u_loi_expiration_date" type="glide_date"/>
+        <element label="MasterCase#-Adj" max_length="255" name="u_mastercase_adj" type="string"/>
+        <element choice="1" label="NA210(1)" max_length="40" name="u_na210_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA210(2)" max_length="40" name="u_na210_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA210(3)" max_length="40" name="u_na210_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA210(4)" max_length="40" name="u_na210_4" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA210(5)" max_length="40" name="u_na210_5" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA220(1)" max_length="40" name="u_na220_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA220(2)" max_length="40" name="u_na220_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA220(3)" max_length="40" name="u_na220_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA230(1)" max_length="40" name="u_na230_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA230(2)" max_length="40" name="u_na230_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA230(3)" max_length="40" name="u_na230_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA230(4)" max_length="40" name="u_na230_4" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA230(5)" max_length="40" name="u_na230_5" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA240(1)" max_length="40" name="u_na240_1" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA240(2)" max_length="40" name="u_na240_2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA240(3)" max_length="40" name="u_na240_3" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA CHARS" max_length="40" name="u_na_chars" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA Compliance" max_length="40" name="u_na_compliance" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA DSHS" max_length="40" name="u_na_dshs" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA HPQA" max_length="40" name="u_na_hpqa" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA Lit" max_length="40" name="u_na_lit" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA Renal" max_length="40" name="u_na_renal" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA SHP" max_length="40" name="u_na_shp" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="NA Survey" max_length="40" name="u_na_survey" type="choice">
+            <choice/>
+        </element>
+        <element label="Next Hearing Date" max_length="50" name="u_next_hearing_date" type="string"/>
+        <element label="Number Addl Beds Requested" max_length="40" name="u_numberaddlbedsrequested" type="integer"/>
+        <element label="NW Renal Comments" max_length="50" name="u_nwrenalcomments" type="string"/>
+        <element choice="1" label="NW Renal Network II" max_length="40" name="u_nwrenalnetworkii" type="choice">
+            <choice/>
+        </element>
+        <element label="On Time" max_length="50" name="u_on_time" type="string"/>
+        <element label="Operator" max_length="50" name="u_operator" type="string"/>
+        <element label="OrigCostSigIssue" max_length="255" name="u_origcostsigissue" type="string"/>
+        <element label="OrigFinSigIssue" max_length="255" name="u_origfinsigissue" type="string"/>
+        <element label="Original Cap Costs" max_length="40" name="u_originalcapcosts" type="integer"/>
+        <element label="Original CON Issued" max_length="40" name="u_original_con_issued" type="glide_date"/>
+        <element label="Original CON Number" max_length="50" name="u_original_con_number" type="string"/>
+        <element choice="1" label="Original Cost Containment" max_length="40" name="u_original_costcontainment" type="choice">
+            <choice/>
+        </element>
+        <element label="Original Decision Conditions" max_length="255" name="u_original_decisionconditions" type="string"/>
+        <element label="Original Determination ID" max_length="40" name="u_original_determinationid" type="integer"/>
+        <element choice="1" label="Original Financial Feasibility" max_length="40" name="u_original_fin_alfeasibility" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Original Need" max_length="40" name="u_original_need" type="choice">
+            <choice/>
+        </element>
+        <element label="Original Number Beds Approved" max_length="40" name="u_original_numberbedsapproved" type="integer"/>
+        <element choice="1" label="Original Quality" max_length="40" name="u_original_quality" type="choice">
+            <choice/>
+        </element>
+        <element label="OrigNeedSigIssue" max_length="255" name="u_origneedsigissue" type="string"/>
+        <element label="OrigQualSigIssue" max_length="255" name="u_origqualsigissue" type="string"/>
+        <element choice="1" label="Other" max_length="40" name="u_other" type="choice">
+            <choice/>
+        </element>
+        <element label="Other Comment" max_length="255" name="u_othercomment" type="string"/>
+        <element label="Owner" max_length="50" name="u_owner" type="string"/>
+        <element label="Ownership Type ID" max_length="40" name="u_ownershiptypeid" type="integer"/>
+        <element label="Project#" max_length="40" name="u_project" type="integer"/>
+        <element label="Project Type Id" max_length="40" name="u_projecttypeid" type="integer"/>
+        <element label="Project County" max_length="50" name="u_project_county" type="string"/>
+        <element label="Project Description-Appl" max_length="50" name="u_project_description_appl" type="string"/>
+        <element label="Project Description-LOI" max_length="50" name="u_project_description_loi" type="string"/>
+        <element label="Project Type" max_length="50" name="u_project_typ0" type="string"/>
+        <element label="Project Type" max_length="40" name="u_project_type" type="string"/>
+        <element label="Public Hearing (PH) Date" max_length="40" name="u_public_hearing_ph_date" type="glide_date"/>
+        <element label="RA# or CN#" max_length="50" name="u_ra_or_cn" type="string"/>
+        <element label="Rebuttals Due" max_length="40" name="u_rebuttals_due" type="glide_date"/>
+        <element label="Reconsideration" max_length="50" name="u_reconsideration" type="string"/>
+        <element label="Reconsideration Comments" max_length="255" name="u_reconsiderationcomments" type="string"/>
+        <element label="Reconsideration Determination ID" max_length="40" name="u_reconsiderat_eterminationid" type="integer"/>
+        <element label="Responsible Employee" max_length="50" name="u_responsibleemployee" type="string"/>
+        <element label="Result of Reconsideration" max_length="255" name="u_resultofreconsideration" type="string"/>
+        <element label="Review Type" max_length="50" name="u_review_type" type="string"/>
+        <element label="Screening Notes" max_length="50" name="u_screening_notes" type="string"/>
+        <element label="SubLevel" max_length="50" name="u_sublevel" type="string"/>
+        <element label="Survey Comments" max_length="50" name="u_surveycomments" type="string"/>
+        <element choice="1" label="Survey of Existing Providers" max_length="40" name="u_surveyofexistingproviders" type="choice">
+            <choice/>
+        </element>
+        <element label="Timeline Comment Field" max_length="255" name="u_timeline_comment_field" type="string"/>
+        <element label="Type of Survey" max_length="50" name="u_type_of_survey" type="string"/>
+        <element label="Updated Analysis Due" max_length="40" name="u_updated_analysis_due" type="glide_date"/>
+        <index name="index">
+            <element name="u_basicinfoid"/>
+        </index>
+    </element>
+</database>
